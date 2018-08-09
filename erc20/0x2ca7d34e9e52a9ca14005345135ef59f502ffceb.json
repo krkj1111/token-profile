@@ -1,0 +1,14 @@
+{
+    "website":"http://www.3wex.com",
+    "published_on":"2018-08-09",
+    "overview":{
+        "en":"3W global digital assets exchange.",
+        "zh":"3W全球数字资产交易所。"
+    },
+    "symbol":"WWW",
+    "initial_price":{
+        "USDT":"0.1 USDT"
+    },
+    "whitepaper":"http://m.3wex.com/upload/whiteBook.pdf",
+    "address":"0x2ca7d34e9e52a9ca14005345135ef59f502ffceb"
+}
